@@ -6,14 +6,30 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+software enngineering is the process developing, testing and deploying computer applications to solve problems in the real world.
+
+Software engineering is vital in the IT industry, enabling businesses to thrive in the digital age by driving innovation, ensuring efficient system development, and underpinning modern technology. 
+It's crucial for creating reliable, secure, and scalable software solutions that meet evolving needs.
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+process of developing
+maintaining 
+updating software for various reasons. Software changes are inevitable because
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+Planning - The initial stage of software development, Planning, involves defining the software's purpose and scope, much like pinpointing our destination and plotting the best route. 
+Requirement Analysis - seeks to identify and record the precise requirements of the final users. 
+Design - its all about building framework
+Coding - is when engineers and developers get down to business and start converting the software design into tangible code.
+Testing - It is when vulnerabilities are uncovered. Software testing involves a thorough examination of the software for any bugs or glitches that might have slipped through during coding.
+Deployment - involves rolling out the meticulously tested and fine-tuned software to its end-users.
+Maintenance - is characterized by constant assistance and improvement, which guarantees the software's best possible functioning and longevity and ensures it meets customer expectations.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
